@@ -1,0 +1,83 @@
+.container {
+  padding-left: 3px;
+  padding-right: 3px;
+  color: red !important;
+}
+
+hr {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.extension-container {
+  min-height: 400px;
+  min-width: 300px;
+  padding-top: 1rem;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.logo-container {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.ramuri-logo {
+  width: 20px;
+  height: 20px;
+}
+.ramuri-logo .ramuri-logo-img {
+  width: 100%;
+}
+
+.brand-info-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.nav-container {
+  margin-bottom: 10px;
+}
+
+.rating-section-name {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin-right: 12px;
+  justify-content: space-between;
+}
+
+.rating-section-name .rating-name-icon-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.rating-icon {
+  margin-right: 10px;
+}
+
+.footing-container {
+  min-height: 120px;
+  width: 100%;
+  padding-top: 1rem;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+}
